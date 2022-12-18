@@ -1,4 +1,4 @@
-# 4EVERLAND DASHBOARD
+#  DASHBOARD
 
 Site: https://dashboard.4everland.org
 Docs: https://docs.4everland.org
